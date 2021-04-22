@@ -9,9 +9,8 @@ I'm has been build Simple Valentine Day Html Script, free and use for learn.
  
 # Let's connect with me!
 <p>
-    <a href="https://itsmelief.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.tk-blue?" /></a>
-    <a href="https://www.linkedin.com/in/wafa-rifqi-anafin-553b591b7/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifkiAnafin_-blue" /></a>
-    <a href="https://facebook.com/bekasiHACKERlive" target="_blank"><img src="https://img.shields.io/badge/Facebook-bekasiHACKERlive-blue" /></a>
-    <a href="https://instagram.com/wafarifki_" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-@wafarifki_-blue" /></a>
+    <a href="https://itsmelief.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-https://itsmelief.my.id-blue?" /></a>
+    <a href="https://facebook.com/heyy.liff.56" target="_blank"><img src="https://img.shields.io/badge/Facebook-heyy.liff.56-blue" /></a>
+    <a href="https://wa.me/6282113345886?text=Halo+Bang+Lief" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-       https://wa.me/6282113345886?text=Halo+Bang+Lief-blue" /></a>
 </p>
 
