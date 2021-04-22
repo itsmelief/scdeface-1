@@ -2,7 +2,7 @@
 I'm has been build Simple Valentine Day Html Script, free and use for learn.
 
 # Demo Site
-<a href="https://wafarifki.github.io/ValentineDayScript/">https://wafarifki.github.io/ValentineDayScript/</a>
+<a href="https://itsmelief.github.io/scdeface-1/">https://itsmelief.github.io/scdeface-1/</a>
 
 # ScreenShoot
  <img src="https://raw.githubusercontent.com/wafarifki/ValentineDayScript/main/Screenshot.JPG">
