@@ -1,11 +1,11 @@
-# ValentineDayScript
-I'm has been build Simple Valentine Day Html Script, free and use for learn.
+# SC DEFACE VERSI 1.0
+Versi pertama, dengan tampilan animasi yg menawan, dibuat hanya untuk kalian para "Defacer".
 
 # Demo Site
 <a href="https://itsmelief.github.io/scdeface-1/">https://itsmelief.github.io/scdeface-1/</a>
 
 # ScreenShoot
- <img src="https://raw.githubusercontent.com/wafarifki/ValentineDayScript/main/Screenshot.JPG">
+ <img src="https://b.top4top.io/p_1938limru1.png">
  
 # Let's connect with me!
 <p>
