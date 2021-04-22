@@ -1,27 +1,17 @@
-# SC DEFACE VERSI 1.0
-Gasss Tebas Index :v
-
-# About Project
-Versi pertama, dengan tampilan animasi yg menawan, dibuat hanya untuk kalian para "Defacer". 
+# ValentineDayScript
+I'm has been build Simple Valentine Day Html Script, free and use for learn.
 
 # Demo Site
-<a href="https://itsmelief.github.io/scdeface-1/"></a>
+<a href="https://wafarifki.github.io/ValentineDayScript/">https://wafarifki.github.io/ValentineDayScript/</a>
 
-# ScreenShot
-<img src="https://c.top4top.io/p_1928ytob61.png">
-
+# ScreenShoot
+ <img src="https://raw.githubusercontent.com/wafarifki/ValentineDayScript/main/Screenshot.JPG">
+ 
 # Let's connect with me!
 <p>
-    <a href="https://www.facebook.com/heyy.liff.56"><i class="fa fa-facebook"></i></a>
-	<a href="#"><i class="fa fa-github"></i></a>
-	<a href="https://wa.me/6282113345886?text=Halo+Bang+Lief"><i class="fa fa-whatsapp"></i></a>
+    <a href="https://wafarifki.tk" target="_blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.tk-blue?" /></a>
+    <a href="https://www.linkedin.com/in/wafa-rifqi-anafin-553b591b7/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifkiAnafin_-blue" /></a>
+    <a href="https://facebook.com/bekasiHACKERlive" target="_blank"><img src="https://img.shields.io/badge/Facebook-bekasiHACKERlive-blue" /></a>
+    <a href="https://instagram.com/wafarifki_" target="_blank"><img src="https://img.shields.io/badge/Instagram-@wafarifki_-blue" /></a>
 </p>
 
-# License
-Didistribusikan di bawah MIT Licensi. Lihat `LISENSI` untuk informasi lebih lanjut.
-
-# Note
-Saya hanya membuat, dan kalian hanya tinggal menggunakan saja. Walau ini sc dari saya, lalu dipakai buat deface site. Saya tidak akan tanggung jawab :)
-
-<!-- Font Awesome -->
-<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
