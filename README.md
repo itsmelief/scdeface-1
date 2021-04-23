@@ -15,3 +15,6 @@ Versi pertama, dengan tampilan animasi yg menawan, dibuat hanya untuk kalian par
     <a href="https://wa.me/6282113345886?text=Halo+Bang+Lief" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-@itsmelief-blue" /></a>
 </p>
 
+# Note!
+Script ini tidak boleh di perjual belikan!
+Hargai saya, jika merasa punya hati :)
