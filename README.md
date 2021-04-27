@@ -1,6 +1,6 @@
 # SC DEFACE VERSI 1.0
-Versi pertama, dengan tampilan animasi yg menawan, dibuat hanya untuk kalian para "Defacer". Tenang kawan, sudah saya bikin responsive.
- :) kamu tinggal pakai saja
+Versi pertama, dengan tampilan animasi slider dan juga menggunakan gif sebagai object nya. Dibuat hanya untuk kalian para "Defacer", jadikan sebuah refrensi. Tenang kawan, sudah saya bikin responsive.
+ :) kamu tinggal pakai saja #10hours10project
 
 # Demo Site
 <a href="https://itsmelief.github.io/scdeface-1/">https://itsmelief.github.io/scdeface-1/</a>
